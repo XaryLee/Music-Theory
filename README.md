@@ -11,7 +11,7 @@ Updating...
 
 ## 参考资料
 
-1. 华萃康 色彩和声[M]
-2. 程嘉溪 bilibili. https://space.bilibili.com/364738464/?spm_id_from=333.999.0.0
+1. 华萃康. 色彩和声[M]
+2. 程嘉溪. bilibili. https://space.bilibili.com/364738464/?spm_id_from=333.999.0.0
 3. 陈文戈. 知乎. https://www.zhihu.com/people/musiclxzmr
 4. 色彩和声-小田田. bilibili. 自动化和声编写程序(构想)
